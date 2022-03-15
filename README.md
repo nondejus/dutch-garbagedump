@@ -2,5 +2,8 @@
 
 huiskamers in nederland
 
+# bezetting
+https://nl.wikipedia.org/wiki/Bezetting_(militair)
+
 # staat der nederlanden
 https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
